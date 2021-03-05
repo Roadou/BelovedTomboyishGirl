@@ -1,5 +1,6 @@
+<p align="center">
 
-<div style="text-align:center">
-  <img width="177" height="279" src="/CirnoR.gif">
-    Retard Programming INC™
-</div>
+  <img src="/CirnoR.gif">
+    <br><br>
+  Retard Programming INC™ 
+</p>
